@@ -1,0 +1,12 @@
+2019-02-15 01:45:41 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Project JavaRushTasks opened ----------
+2019-02-15 01:45:41 INFO  JavaRushTasksProjectComponent.projectOpened(70) - ---------- Version 3.25 ----------
+
+2019-02-15 01:45:41 INFO  JavaRushTasksProjectComponent.setAutoscrolls(344) - Autoscrolls успешно установлены
+2019-02-15 01:45:43 INFO  ApacheHttpClient.login(233) - Ожидание ответа сервера.
+2019-02-15 01:45:43 INFO  ApacheHttpClient.login(233) - Ожидание ответа сервера.
+2019-02-15 01:45:43 INFO  ApacheHttpClient.login(237) - responseCode = 200
+2019-02-15 01:45:43 INFO  ApacheHttpClient.login(268) - JSESSIONID OK
+2019-02-15 01:45:43 INFO  ApacheHttpClient.refreshUserInfo(296) - responseCode = 200
+2019-02-15 01:45:43 INFO  ApacheHttpClient.refreshUserInfo(302) - Информация о пользователе получена.
+2019-02-15 01:45:43 INFO  ApacheHttpClient.startGA(33) - GAService запущен.
+2019-02-15 01:45:43 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.

@@ -6,7 +6,7 @@
 *.properties
 /.idea/
 /out/
-out.log
+*.log
 
 # Package Files #
 *.jar
